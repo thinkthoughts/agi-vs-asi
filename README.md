@@ -1,5 +1,13 @@
 # agi-vs-asi
 
+<p align="center">
+  <img
+    src="figures/2606-12683.png"
+    alt="Constraints Demystify Superintelligence"
+    width="900"
+  >
+</p>
+
 Lab reports and notebooks exploring pathways, constraints, and forecasts for transitions from AGI to ASI.
 
 Based on:
@@ -8,6 +16,8 @@ Based on:
 - Engineering statement: *Constraints Demystify Superintelligence*
 
 ## Core statement
+
+> The transition from artificial general intelligence (AGI) to artificial superintelligence (ASI) depends not only on increasing capability, but also on the constraints that shape scaling, feedback lifts, and coordination.
 
 > The transition from artificial general intelligence (AGI) to artificial superintelligence (ASI) depends not only on increasing capability, but also on the constraints that shape scaling, feedback lifts, and coordination.
 
